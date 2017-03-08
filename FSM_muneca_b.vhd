@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------------
 -- Company: UCM
--- Engineer: Inmaculada Pardines
+-- Engineer:
 -- 
 -- Create Date:    15:03:54 10/22/2012 
 -- Design Name: 
@@ -8,7 +8,7 @@
 -- Project Name: 
 -- Target Devices: 
 -- Tool versions: 
--- Description: Diseño de control del funcionamiento de una muñeca
+-- Description: DiseÃ±o de control del funcionamiento de una muÃ±eca
 --
 -- Dependencies: 
 --
